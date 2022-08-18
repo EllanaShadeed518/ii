@@ -1,0 +1,4 @@
+
+{{$book->auther_name}}
+
+
